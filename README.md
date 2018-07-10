@@ -33,5 +33,6 @@
 2) Manually flip each file enfing in .bmp, or .dds extensions
     * can be done in ms paint for .bmp
     * or gimp2 for .dds
+    * probably a way easier way to do this, but I couldn't be bothered
 
 3) You may need to flip any files relating to canals, they will be in the /map folder and in /map/default.map   
