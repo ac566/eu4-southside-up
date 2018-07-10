@@ -1,6 +1,9 @@
 import math
 import sys
 
+# author: ac566
+# date: 7/9/2018
+# copyright: 2018
 class flip_my_shit():
     def __init__(self, path_to_mod):
         # Fix Mod Path

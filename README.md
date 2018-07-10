@@ -1,3 +1,6 @@
+***!! WARNING: Save and backup any files you hope to change, I am not responsible for broken games !!***
+
+
 * Whats needed:
     * <path_to_mod>
 
